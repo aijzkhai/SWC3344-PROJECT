@@ -1,0 +1,112 @@
+1; Liam Johnson; 7; 1344; Chicken Caesar Salad; 8.99; 5; 2024-07-14 12:00:00
+2; Emma Brown; 6; 1345; Grilled Chicken Sandwich; 10.49; 6; 2024-07-14 12:30:00
+3; Noah Davis; 1; 1346; Margherita Pizza; 11.99; 4; 2024-07-14 13:00:00
+4; Olivia Wilson; 5; 1347; Vegetarian Pasta; 9.49; 7; 2024-07-14 13:30:00
+5; James Martinez; 3; 1348; Shrimp Scampi; 13.49; 3; 2024-07-14 14:00:00
+6; Sophia Garcia; 8; 1349; Caprese Salad; 7.49; 8; 2024-07-14 14:30:00
+7; Ethan Thompson; 4; 1350; Chicken Stir Fry; 10.99; 2; 2024-07-14 15:00:00
+8; Isabella Clark; 2; 1351; Vegetarian Pizza; 12.49; 10; 2024-07-14 15:30:00
+9; Mason Rodriguez; 7; 1352; Seafood Linguine; 14.99; 1; 2024-07-14 16:00:00
+10; Ava Hernandez; 5; 1353; Greek Salad; 8.49; 9; 2024-07-14 16:30:00
+11; Jackson Lee; 3; 1354; Chicken Quesadilla; 9.99; 2; 2024-07-14 17:00:00
+12; Scarlett Moore; 8; 1355; Veggie Burger; 10.49; 6; 2024-07-14 17:30:00
+13; Lucas Thompson; 4; 1356; Chicken Alfredo; 11.49; 1; 2024-07-14 18:00:00
+14; Harper Rodriguez; 1; 1357; Margarita Pizza; 12.99; 8; 2024-07-14 18:30:00
+15; Mateo Garcia; 6; 1358; Chicken Tenders; 7.99; 4; 2024-07-14 19:00:00
+16; Hazel Davis; 2; 1359; Spinach Salad; 6.99; 5; 2024-07-14 19:30:00
+17; Parker Wilson; 7; 1360; BBQ Chicken Pizza; 13.99; 1; 2024-07-14 20:00:00
+18; Luna Hernandez; 5; 1361; Penne Arrabbiata; 9.49; 7; 2024-07-14 20:30:00
+19; Leo Clark; 3; 1362; Tofu Stir Fry; 8.99; 2; 2024-07-14 21:00:00
+20; Scarlett Thompson; 8; 1363; Caesar Salad; 7.49; 6; 2024-07-14 21:30:00
+21; Logan Martinez; 4; 1364; Veggie Wrap; 6.49; 1; 2024-07-14 22:00:00
+22; Amelia Johnson; 1; 1365; Hawaiian Pizza; 14.49; 8; 2024-07-14 22:30:00
+23; Daniel Brown; 6; 1366; Mushroom Risotto; 10.99; 4; 2024-07-14 23:00:00
+24; Evelyn Davis; 2; 1367; Shrimp Tacos; 11.99; 5; 2024-07-14 23:30:00
+25; Harper Wilson; 7; 1368; Caprese Panini; 8.99; 3; 2024-07-15 00:00:00
+26; Logan Clark; 5; 1369; Chicken Caesar Wrap; 9.49; 9; 2024-07-15 00:30:00
+27; Amelia Thompson; 3; 1370; Veggie Stir Fry; 10.99; 2; 2024-07-15 01:00:00
+28; Daniel Martinez; 8; 1371; Margherita Flatbread; 11.49; 7; 2024-07-15 01:30:00
+29; Sophia Davis; 4; 1372; Quinoa Salad; 7.49; 4; 2024-07-15 02:00:00
+30; Lucas Johnson; 1; 1373; Veggie Pizza; 12.99; 9; 2024-07-15 02:30:00
+31; Nova Brown; 6; 1374; Chicken Caesar Wrap; 9.49; 3; 2024-07-15 03:00:00
+32; Zoey Hernandez; 2; 1375; Caprese Panini; 8.49; 8; 2024-07-15 03:30:00
+33; Axel Davis; 7; 1376; BBQ Chicken Pizza; 13.49; 1; 2024-07-15 04:00:00
+34; Eliana Wilson; 5; 1377; Greek Salad; 8.99; 10; 2024-07-15 04:30:00
+35; Liam Johnson; 3; 1378; Margherita Flatbread; 11.49; 2; 2024-07-15 05:00:00
+36; Emma Brown; 8; 1379; Cheeseburger; 8.99; 5; 2024-07-15 05:30:00
+37; Noah Davis; 4; 1380; Chicken Alfredo; 11.49; 3; 2024-07-15 06:00:00
+38; Olivia Wilson; 1; 1381; Veggie Pizza; 12.99; 6; 2024-07-15 06:30:00
+39; James Martinez; 6; 1382; Chicken Caesar Wrap; 9.49; 4; 2024-07-15 07:00:00
+40; Sophia Garcia; 2; 1383; Caprese Panini; 8.49; 5; 2024-07-15 07:30:00
+41; Ethan Thompson; 7; 1384; BBQ Chicken Pizza; 13.49; 1; 2024-07-15 08:00:00
+42; Isabella Clark; 5; 1385; Greek Salad; 8.99; 7; 2024-07-15 08:30:00
+43; Mason Rodriguez; 3; 1386; Margherita Flatbread; 11.49; 2; 2024-07-15 09:00:00
+44; Ava Hernandez; 8; 1387; Cheeseburger; 8.99; 6; 2024-07-15 09:30:00
+45; Jackson Lee; 4; 1388; Chicken Caesar Wrap; 9.49; 3; 2024-07-15 10:00:00
+46; Scarlett Moore; 1; 1389; Caesar Salad; 7.49; 10; 2024-07-15 10:30:00
+47; Lucas Thompson; 6; 1390; Veggie Wrap; 6.49; 1; 2024-07-15 11:00:00
+48; Harper Rodriguez; 2; 1391; Margherita Pizza; 12.99; 6; 2024-07-15 11:30:00
+49; Mateo Garcia; 7; 1392; Chicken Tenders; 7.99; 2; 2024-07-15 12:00:00
+50; Hazel Davis; 5; 1393; Spinach Salad; 6.99; 5; 2024-07-15 12:30:00
+51; Parker Wilson; 3; 1394; BBQ Chicken Pizza; 13.99; 1; 2024-07-15 13:00:00
+52; Luna Hernandez; 8; 1395; Penne Arrabbiata; 9.49; 8; 2024-07-15 13:30:00
+53; Leo Clark; 4; 1396; Tofu Stir Fry; 8.99; 2; 2024-07-15 14:00:00
+54; Scarlett Thompson; 1; 1397; Caesar Salad; 7.49; 9; 2024-07-15 14:30:00
+55; Logan Martinez; 6; 1398; Veggie Wrap; 6.49; 4; 2024-07-15 15:00:00
+56; Amelia Johnson; 2; 1399; Hawaiian Pizza; 14.49; 5; 2024-07-15 15:30:00
+57; Daniel Brown; 7; 1400; Mushroom Risotto; 10.99; 3; 2024-07-15 16:00:00
+58; Evelyn Davis; 5; 1401; Shrimp Tacos; 11.99; 8; 2024-07-15 16:30:00
+59; Harper Wilson; 3; 1402; Caprese Panini; 8.99; 2; 2024-07-15 17:00:00
+60; Logan Clark; 8; 1403; Chicken Caesar Wrap; 9.49; 10; 2024-07-15 17:30:00
+61; Amelia Thompson; 4; 1404; Veggie Stir Fry; 10.99; 1; 2024-07-15 18:00:00
+62; Daniel Martinez; 1; 1405; Margherita Flatbread; 11.49; 7; 2024-07-15 18:30:00
+63; Sophia Davis; 6; 1406; Quinoa Salad; 7.49; 3; 2024-07-15 19:00:00
+64; Lucas Johnson; 2; 1407; Veggie Pizza; 12.99; 6; 2024-07-15 19:30:00
+65; Nova Brown; 7; 1408; Chicken Caesar Wrap; 9.49; 2; 2024-07-15 20:00:00
+66; Zoey Hernandez; 5; 1409; Caprese Panini; 8.49; 9; 2024-07-15 20:30:00
+67; Axel Davis; 3; 1410; BBQ Chicken Pizza; 13.49; 1; 2024-07-15 21:00:00
+68; Eliana Wilson; 8; 1411; Greek Salad; 8.99; 8; 2024-07-15 21:30:00
+69; Liam Johnson; 4; 1412; Margherita Flatbread; 11.49; 4; 2024-07-15 22:00:00
+70; Emma Brown; 1; 1413; Cheeseburger; 8.99; 5; 2024-07-15 22:30:00
+71; Noah Davis; 6; 1414; Chicken Alfredo; 11.49; 3; 2024-07-15 23:00:00
+72; Olivia Wilson; 2; 1415; Veggie Pizza; 12.99; 6; 2024-07-15 23:30:00
+73; James Martinez; 7; 1416; Chicken Caesar Wrap; 9.49; 1; 2024-07-16 00:00:00
+74; Sophia Garcia; 5; 1417; Caprese Panini; 8.49; 7; 2024-07-16 00:30:00
+75; Ethan Thompson; 3; 1418; BBQ Chicken Pizza; 13.49; 2; 2024-07-16 01:00:00
+76; Isabella Clark; 8; 1419; Greek Salad; 8.99; 9; 2024-07-16 01:30:00
+77; Mason Rodriguez; 4; 1420; Margherita Flatbread; 11.49; 4; 2024-07-16 02:00:00
+78; Ava Hernandez; 1; 1421; Cheeseburger; 8.99; 5; 2024-07-16 02:30:00
+79; Jackson Lee; 6; 1422; Chicken Caesar Wrap; 9.49; 3; 2024-07-16 03:00:00
+80; Scarlett Moore; 2; 1423; Caesar Salad; 7.49; 8; 2024-07-16 03:30:00
+81; Lucas Thompson; 7; 1424; Veggie Wrap; 6.49; 1; 2024-07-16 04:00:00
+82; Harper Rodriguez; 5; 1425; Margherita Pizza; 12.99; 9; 2024-07-16 04:30:00
+83; Mateo Garcia; 3; 1426; Chicken Tenders; 7.99; 2; 2024-07-16 05:00:00
+84; Hazel Davis; 8; 1427; Spinach Salad; 6.99; 7; 2024-07-16 05:30:00
+85; Parker Wilson; 4; 1428; BBQ Chicken Pizza; 13.99; 3; 2024-07-16 06:00:00
+86; Luna Hernandez; 1; 1429; Penne Arrabbiata; 9.49; 10; 2024-07-16 06:30:00
+87; Leo Clark; 6; 1430; Tofu Stir Fry; 8.99; 5; 2024-07-16 07:00:00
+88; Scarlett Thompson; 2; 1431; Caesar Salad; 7.49; 8; 2024-07-16 07:30:00
+89; Logan Martinez; 7; 1432; Veggie Wrap; 6.49; 1; 2024-07-16 08:00:00
+90; Amelia Johnson; 5; 1433; Hawaiian Pizza; 14.49; 4; 2024-07-16 08:30:00
+91; Daniel Brown; 3; 1434; Mushroom Risotto; 10.99; 2; 2024-07-16 09:00:00
+92; Evelyn Davis; 8; 1435; Shrimp Tacos; 11.99; 9; 2024-07-16 09:30:00
+93; Harper Wilson; 4; 1436; Caprese Panini; 8.99; 3; 2024-07-16 10:00:00
+94; Logan Clark; 1; 1437; Chicken Caesar Wrap; 9.49; 5; 2024-07-16 10:30:00
+95; Amelia Thompson; 6; 1438; Veggie Stir Fry; 10.99; 4; 2024-07-16 11:00:00
+96; Daniel Martinez; 2; 1439; Margherita Flatbread; 11.49; 7; 2024-07-16 11:30:00
+97; Sophia Davis; 7; 1440; Quinoa Salad; 7.49; 1; 2024-07-16 12:00:00
+98; Lucas Johnson; 5; 1441; Veggie Pizza; 12.99; 6; 2024-07-16 12:30:00
+99; Nova Brown; 3; 1442; Chicken Caesar Wrap; 9.49; 2; 2024-07-16 13:00:00
+100; Zoey Hernandez; 8; 1443; Caprese Panini; 8.49; 9; 2024-07-16 13:30:00
+
+==============================
+Customer ID: 101
+Customer Name: Jazz
+Table Number: 9
+
+Order ID: 123
+Item Name: Cofee
+Item Price: 12.0
+Quantity: 8
+Order Time: 12.33pm
+
